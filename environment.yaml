@@ -1,0 +1,32 @@
+name: stock_prediction_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy=1.22.4  
+  - pandas=1.3.3  
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - ta-lib
+  - requests
+  - sqlalchemy
+  - python-dotenv
+  - psycopg2-binary
+  - pytest
+  - jupyter
+  - diskcache
+  - pytorch
+  - transformers
+  - requests-cache
+  - yfinance
+  - beautifulsoup4
+  - ratelimit
+  - fake-useragent
+  - tensorflow
+  - shap
+  - pillow
+
+
+  
